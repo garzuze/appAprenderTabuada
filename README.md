@@ -1,4 +1,4 @@
-# appAprenderTabuada
+# Um aplicativo para aprender tabuada
 AprenderTabuada é um aplicativo que gera dois números aleatórios entre 0 e 10, e pede que
 o usuário responda o resultado da multiplicação desses dois números. Dessa forma, o
 usuário poderá aprender a tabuada na prática: multiplicando números randomicamente.
